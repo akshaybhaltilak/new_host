@@ -1,0 +1,42 @@
+{
+    "sde1": {
+        "title": "SDE1 Roadmap",
+        "steps": [
+            "Step 1",
+            "Step 2",
+            "Step 3"
+        ]
+    },
+    "sde2": {
+        "title": "SDE2 Roadmap",
+        "steps": [
+            "Step 1",
+            "Step 2",
+            "Step 3"
+        ]
+    },
+    "frontend": {
+        "title": "Frontend Developer Roadmap",
+        "steps": [
+            "Step 1",
+            "Step 2",
+            "Step 3"
+        ]
+    },
+    "backend": {
+        "title": "Backend Developer Roadmap",
+        "steps": [
+            "Step 1",
+            "Step 2",
+            "Step 3"
+        ]
+    },
+    "fullstack": {
+        "title": "Full Stack Developer Roadmap",
+        "steps": [
+            "Step 1",
+            "Step 2",
+            "Step 3"
+        ]
+    }
+}
